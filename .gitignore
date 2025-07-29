@@ -1,0 +1,17 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual env (if any)
+venv/
+.env/
+
+# Model data & large downloads
+gpt2/
+*.ckpt*
+
+# Local files
+instruction-data-with-response.json

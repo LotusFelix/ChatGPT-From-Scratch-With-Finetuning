@@ -1,0 +1,8 @@
+torch>=1.12
+tensorflow>=2.8
+tiktoken
+pandas
+tqdm
+matplotlib
+openai
+numpy
