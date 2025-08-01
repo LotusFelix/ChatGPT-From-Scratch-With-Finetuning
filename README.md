@@ -1,4 +1,4 @@
-# LLM From Scratch For Chatbot
+# ChatGPT From Scratch And Finetuned To Act As a Personal Chatbot
 
 This repo contains:
 - A GPT‑style model built from scratch (attention, layers, blocks).
